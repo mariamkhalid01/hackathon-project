@@ -1,0 +1,11 @@
+{
+  "name": "Deutsch Lens",
+  "description": "A cinematic AR language learning experience that teaches German grammatical gender through mobile vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AR Visual Physics",
+    "Rhythmic Language Learning"
+  ]
+}
